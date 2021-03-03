@@ -45,11 +45,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\Google Drive (andr3y.lim1@g7suite.me)\\Construindo APIs Curso\\Manager\\src\\Manager.Domain\\Manager.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\Google Drive (andr3y.lim1@g7suite.me)\\Construindo APIs Curso\\Manager\\src\\2 - Manager.Domain\\Manager.Domain.csproj",
       "projectName": "Manager.Domain",
-      "projectPath": "C:\\Users\\andre\\Google Drive (andr3y.lim1@g7suite.me)\\Construindo APIs Curso\\Manager\\src\\Manager.Domain\\Manager.Domain.csproj",
+      "projectPath": "C:\\Users\\andre\\Google Drive (andr3y.lim1@g7suite.me)\\Construindo APIs Curso\\Manager\\src\\2 - Manager.Domain\\Manager.Domain.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\Google Drive (andr3y.lim1@g7suite.me)\\Construindo APIs Curso\\Manager\\src\\Manager.Domain\\obj\\",
+      "outputPath": "C:\\Users\\andre\\Google Drive (andr3y.lim1@g7suite.me)\\Construindo APIs Curso\\Manager\\src\\2 - Manager.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

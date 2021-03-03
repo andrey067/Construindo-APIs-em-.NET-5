@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\Google Drive (andr3y.lim1@g7suite.me)\\Construindo APIs Curso\\Manager\\src\\Manager.Infra\\Manager.Infra.csproj": {}
+    "C:\\Users\\andre\\Google Drive (andr3y.lim1@g7suite.me)\\Construindo APIs Curso\\Manager\\src\\4 - Manager.Infra\\Manager.Infra.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\Google Drive (andr3y.lim1@g7suite.me)\\Construindo APIs Curso\\Manager\\src\\Manager.Infra\\Manager.Infra.csproj": {
+    "C:\\Users\\andre\\Google Drive (andr3y.lim1@g7suite.me)\\Construindo APIs Curso\\Manager\\src\\4 - Manager.Infra\\Manager.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\Google Drive (andr3y.lim1@g7suite.me)\\Construindo APIs Curso\\Manager\\src\\Manager.Infra\\Manager.Infra.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\Google Drive (andr3y.lim1@g7suite.me)\\Construindo APIs Curso\\Manager\\src\\4 - Manager.Infra\\Manager.Infra.csproj",
         "projectName": "Manager.Infra",
-        "projectPath": "C:\\Users\\andre\\Google Drive (andr3y.lim1@g7suite.me)\\Construindo APIs Curso\\Manager\\src\\Manager.Infra\\Manager.Infra.csproj",
+        "projectPath": "C:\\Users\\andre\\Google Drive (andr3y.lim1@g7suite.me)\\Construindo APIs Curso\\Manager\\src\\4 - Manager.Infra\\Manager.Infra.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\Google Drive (andr3y.lim1@g7suite.me)\\Construindo APIs Curso\\Manager\\src\\Manager.Infra\\obj\\",
+        "outputPath": "C:\\Users\\andre\\Google Drive (andr3y.lim1@g7suite.me)\\Construindo APIs Curso\\Manager\\src\\4 - Manager.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -43,6 +43,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
